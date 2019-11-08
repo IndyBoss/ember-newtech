@@ -11,8 +11,10 @@ Ember is een opkomende web development tool, deze trok meteen mijn aandacht. Ik 
 	- Templates leren maken
 	- Model hooks leren maken
 	- Addons installeren
-	- Simpel component building
-	- 
+	- Simpel component aanmaken
+	- Template helper gebruikt
+	- Gebruik maken van ember data
+	- Map services gebruiken
 
 
 	
@@ -20,3 +22,4 @@ Ember is een opkomende web development tool, deze trok meteen mijn aandacht. Ik 
 	
 ### Bronnen:
 - [emberjs.com](https://emberjs.com)
+- [guides.emberjs.com](https://guides.emberjs.com/release/tutorial/)
